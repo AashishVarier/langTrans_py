@@ -1,6 +1,6 @@
 # Machine Translation using HuggingFace and TensorFlow
 
-This project This is part of blog 'Finding and Using Pretrained Models from HuggingFace'. It can be found [here](https://variableduck.com/blog/blog2.html). It is to demonstrate running a pre-trained multilingual translation model (`Helsinki-NLP/opus-mt-mul-en`) locally using TensorFlow and HuggingFace's Transformers library.
+This project is part of blog 'Finding and Using Pretrained Models from HuggingFace'. It can be found [here](https://variableduck.com/blog/blog2.html). It is to demonstrate running a pre-trained multilingual translation model (`Helsinki-NLP/opus-mt-mul-en`) locally using TensorFlow and HuggingFace's Transformers library.
 
 ## Model and Task
 - **Task**: Translation
